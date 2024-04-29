@@ -1,5 +1,5 @@
 [![CI/CD GitHub Actions](https://github.com/Retnug228/Lab2Orpo/actions/workflows/test-action.yml/badge.svg)](https://github.com/Retnug228/Lab2Orpo/actions/workflows/test-action.yml)
 [![Coverage Status](https://coveralls.io/repos/github/Retnug228/Lab2Orpo/badge.svg?branch=master)](https://coveralls.io/github/Retnug228/Lab2Orpo?branch=master)
-[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=seekerk_gtest&metric=alert_status)](https://sonarcloud.io/dashboard?id=seekerk_gtest)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=seekerk_ctest&metric=bugs)](https://sonarcloud.io/summary/new_code?id=seekerk_ctest)
-[![Code smells](https://sonarcloud.io/api/project_badges/measure?project=seekerk_gtest&metric=code_smells)](https://sonarcloud.io/dashboard?id=seekerk_gtest)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Retnug228_Lab2Orpo&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Retnug228_Lab2Orpo)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Retnug228_Lab2Orpo&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Retnug228_Lab2Orpo)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Retnug228_Lab2Orpo&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Retnug228_Lab2Orpo)
