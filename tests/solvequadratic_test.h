@@ -17,7 +17,7 @@ TEST(SolveQuadraticTest, OneRoot) {
     int result = solveQuadratic(1, -2, 1, &x1, &x2);
     EXPECT_EQ(result, 1);
 <<<<<<< HEAD
-    EXPECT_EQ(x1, 3.0);
+    EXPECT_EQ(x1, 1.0);
 }
 
 TEST(SolveQuadraticTest, TwoRoots) {
