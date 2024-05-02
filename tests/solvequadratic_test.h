@@ -6,6 +6,8 @@ extern "C" {
 }
 
 
+
+
 TEST(SolveQuadraticTest, NoRoots) {
     double x1, x2;
     int result = solveQuadratic(1, 0, 1, &x1, &x2);
